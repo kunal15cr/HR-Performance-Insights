@@ -88,13 +88,3 @@ The **HR Present Insight** project aims to address several key issues:
 4. **Monitor Epidemic Data**:
    - Check for any epidemic alerts and take necessary actions as indicated.
 
-## Contribution
-
-We welcome contributions to enhance the HR Present Insight project. To contribute:
-
-1. **Fork the Repository**
-2. **Create a Feature Branch**:
-   ```bash
-   git checkout -b feature/your-feature-name
-
-
